@@ -1,0 +1,14 @@
+body {
+  background-color: #99ffff
+}
+
+div {
+  width: 100%;
+  text-align: center;
+  &.index-container {
+    background-color: antiquewhite;
+  }
+  &.page2-container {
+    background-color: royalblue;
+  }
+}
